@@ -8,6 +8,7 @@ En este proyecto se integran los siguientes conocimientos.
 * Uso de Postgres como motor de base de datos.
 * Uso de tablas relacionales.
 * Implementación de un CRUD para la creación, búsqueda, actualización y eliminación de entidades.
+* Usando atributos de tipo Enum
 
 ### Descripción breve del proyecto
 
