@@ -4,7 +4,7 @@ En este proyecto se integran los siguientes conocimientos.
 
 * Uso de programación orientada a objetos.
 * Implementación de Spring Boot.
-* Implementación JPA - Hibernate para el manejo de consultas SQL.
+* Implementación JPA - Hibernate para el manejo de consultas SQL usando Derived Querys y Native Querys.
 * Uso de Postgres como motor de base de datos.
 * Uso de tablas relacionales.
 * Implementación de un CRUD para la creación, búsqueda, actualización y eliminación de entidades.
